@@ -1,5 +1,7 @@
 # Note App using React & Firebase
 
+https://note-app-react-firebase.netlify.app/
+
 - svakog dana u svakom pogledu sve vise napredujem :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
