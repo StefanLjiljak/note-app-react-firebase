@@ -20,7 +20,7 @@ const Editor = ({
     setText(selectedNote.body);
     setTitle(selectedNote.title);
     setId(selectedNote.id);
-  }, []);
+  }, [selectedNote]);
 
   const update = debounce(() => {
     noteUpdate(id, {
